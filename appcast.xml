@@ -6,6 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.20</title>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 20:47:52 GMT</pubDate>
+      <description>Settings now show the Dice version, copyright and a link to opyuii.com at the bottom.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.20/Dice-v0.1.20-apple-silicon.zip" length="10213925" type="application/octet-stream" sparkle:edSignature="iP5zvoKcWdDNgXB7aGm5TNxSa1Yj3F+38MkM/pDUEj/d87tmQVyTVaP8HzLjOL7OF9zmC7VXaAhmkPmwcdBiCw=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.19</title>
       <sparkle:version>20</sparkle:version>
       <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
@@ -203,6 +214,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: LlMB12+kMnlLanx8lHcGgIwMZMsla4JzwxJPcbGVCiKX6GqSXVo3ugYzd2CJuMmFKD7pUWR5TZZzY+z8ukelDA==
-length: 14724
+edSignature: 22eHNXUaTQ2Q7r+1X/7dt5Glr86/tMyEkLAyNcbL2UUgIhC9kiMljFfurlEt+BFWXCvfC1HQOuRNdn745nINCA==
+length: 15486
 -->
