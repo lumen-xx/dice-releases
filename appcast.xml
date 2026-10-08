@@ -6,6 +6,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.16</title>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 20:33:08 GMT</pubDate>
+      <description>- Right-click the start icon to choose where results go: save copies (beside originals or in a folder), copy to clipboard, or replace originals. Copy to clipboard is also a default in Settings.
+- Menu bar icon accepts dropped images, optionally starting right away.
+- Drag files toward the top centre (notch) or a screen corner to reveal a drop target (Settings → General, off by default).
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.16/Dice-v0.1.16-apple-silicon.zip" length="10192823" type="application/octet-stream" sparkle:edSignature="0iVenLBEEUffqqX8FLJg1G8/RzCGpPXf0xHPBC0oOA1qDv8Ny8WvAY6jNbD53oOi7QjHYuU6SKmR3q/Pddh+Dg=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.15</title>
       <sparkle:version>16</sparkle:version>
       <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
@@ -157,6 +170,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: NbZcPtZhQUEDTv6xqxhCPgHSieAETX47NRiWqOXRPgyekgZk9TdFXfsL/5v9DnoU9sg8POAUGVFB47wch3vxBQ==
-length: 11299
+edSignature: Qf3mlSyYwLkkQg6GEOkZPnOjV58jTd0azI9gjraMYqxswAWLru+bnuctsIU8MYKf2guDc8JRKFBPluE2Hz4OCA==
+length: 12367
 -->
