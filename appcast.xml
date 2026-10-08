@@ -6,6 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.25</title>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 21:08:05 GMT</pubDate>
+      <description>New setting to show or hide Edit with Dice in Finder's right-click menu.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.25/Dice-v0.1.25-apple-silicon.zip" length="10219997" type="application/octet-stream" sparkle:edSignature="pHaVcImsnsOzRhmgEjCnU4KEhGFmCozzul/271RTi6M27y2H95njpx8m6aw80QLOu3fuVU5qhYqAvfNKjkEdCA=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.24</title>
       <sparkle:version>25</sparkle:version>
       <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
@@ -258,6 +269,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: eM3fQHp9aKM/DM8/LaZHw05sWDf2K1R6srvhzWPC6CvKFhOtoj5NgX2oDdmqLBQflESCJnOxPVNSk3n1HIScDw==
-length: 18633
+edSignature: M8+zzAzmtITbiRRdc2ozE4//XELluLO5RuEiBjCp2EH9EFIbnj6A2Fo8OwFz8slEnJnXMmhoFdOMwCASRlXzBg==
+length: 19382
 -->
