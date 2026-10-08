@@ -6,6 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.22</title>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 20:58:13 GMT</pubDate>
+      <description>The corner drop target is now a larger, blurred square tile with a dashed outline that lights up in the accent colour when you hover over it.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.22/Dice-v0.1.22-apple-silicon.zip" length="10216620" type="application/octet-stream" sparkle:edSignature="6iEFnREfFgBvog23Fdc981Y0ZFtrnyAe67Abc+eSVBb+jm5O5NdsJ+1u1O5uMM4DzcsXpXAwsSOyHuL0hEY1Bg=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.21</title>
       <sparkle:version>22</sparkle:version>
       <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
@@ -225,6 +236,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 4t77V0El2n5uEvX3AhwQ9Kb9tRr+/Is/3f2dYOSfYVSaxnx37AgFiVwWvulKQVwwko2VVUvBuW/PyEVpPReBDg==
-length: 16324
+edSignature: LXsGTxszClnTQW9qTT+1fWeO2mIMGebI/7ct9vZz/J3WwWB1zisQHUz2AoCRyilmg7g5gLPUrQ73O/umK5giAw==
+length: 17142
 -->
