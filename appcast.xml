@@ -6,6 +6,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.8</title>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 18:51:38 GMT</pubDate>
+      <description>Dice 0.1.8 preview
+
+- Convert SVG and every PDF page into images.
+- Add GIF, BMP, TIFF and native AVIF export, plus macOS-supported RAW input.
+- Extract GIF frames and TIFF pages into separate batch entries.
+- Resize all changes resolution only and skips images already smaller than the target.
+- Start now processes and saves copies beside originals or in a configured export folder in one action.
+- Command-comma opens Settings inside the Dice window.
+- Cache previews within a 32 MiB budget and reuse metadata when paging.
+- Show resize cursors around window edges and corners.
+- Remember optional default export folder and format, plus opt-in automatic update checks in Settings.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.8/Dice-v0.1.8-apple-silicon.zip" length="10079902" type="application/octet-stream" sparkle:edSignature="y1mrYhraF8biWv2DuCIBZ8TbbiD39aQGkVcDDvyUD0ANGb9YE8QJm8/5oh6s5/1OiwtkSRTFxEMbgRWbshFNDg=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.7</title>
       <sparkle:version>8</sparkle:version>
       <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
@@ -46,6 +67,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: yN2oc41oCIptQq8JJ5yGlh9s0GOj7HXWLozuntOgY+v6qwCyILhQbOyeDlJjSVp5Yj8MbL+9TWGHiWKY79I6Bw==
-length: 3426
+edSignature: NWjleHrru8rloMYDLA69UnWMbPZYTCjHIXcduc/DdjN66PFVUoHVVM5PnhqSD1eaFXnRij4zEonFQVUbKcmVCg==
+length: 4781
 -->
