@@ -30,7 +30,7 @@ A small native Mac app to convert, resize and compress images, inspect metadata 
 
 Requires **macOS 14 or newer and an Apple-silicon Mac**. The app is about **31.6 MB installed / 10.1 MB downloaded**. ExifTool, WebP and SVG rendering tools are bundled.
 
-Drop images into Dice, use **+**, or choose **Open With → Dice** in Finder. Press **⌘,** or the sliders for Settings inside Dice. Choose your settings and press **Start** to process and save copies in one step. Enable a default export folder and/or format independently; otherwise copies save beside originals using the source format.
+Drop images into Dice, use **+**, or choose **Open With → Dice** in Finder. Press **⌘,** for App settings inside Dice (export defaults and updates). The sliders opens a separate Image settings popover for conversion, resize, compression and metadata choices for the current images. Choose your settings and press **Start** to process and save copies in one step. Enable a default export folder and/or format independently; otherwise copies save beside originals using the source format.
 
 The page number opens the searchable image list. Removing an image from Dice leaves its original file in place. Copies save automatically. If saving fails, use **Dice → Save Copies As…** before closing.
 
