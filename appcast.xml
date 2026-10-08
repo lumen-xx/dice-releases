@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.10</title>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 19:18:32 GMT</pubDate>
+      <description>- New **Replace originals** option: saves the result under the original's name and moves the original to the Trash.
+- **Resize only** is now a toggle in Image settings; the settings popover is wider and has no extra buttons or text. ▶ is the single step that processes and saves.
+- `package.py --dev` builds a separate Dice Dev app that does not touch the Finder context menu.
+- Simpler README.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.10/Dice-v0.1.10-apple-silicon.zip" length="10095592" type="application/octet-stream" sparkle:edSignature="5ZmDGnbSUAm2G7gNnCjNynuNyBf11Mwk2wml3CLL474zilNKi2cyKqGEyP1Qp7o2+WLrTXlNGT+shg3dLuWxCw=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.9</title>
       <sparkle:version>10</sparkle:version>
       <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
@@ -82,6 +96,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: cz1HeUsAEvPPBXr9fvnB/Ul9xQJnVoxn5k56WWiujBslfZyTe+bteXyukKSt0dNyMNiG8K4dg2VYS3HccNhmAw==
-length: 5764
+edSignature: f1daqCP7E0nExCXEV8N+8cK9pjtCoouP5LPPImHYoKyQKkP8COsHHwNzFcuBau8hwTBhwY8f0R7Cy94evPyOBA==
+length: 6837
 -->
