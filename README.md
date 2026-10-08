@@ -2,7 +2,7 @@
 
 A small native Mac app to convert, resize and compress images, inspect metadata and remove personal tags. Everything happens locally on your Mac. Originals stay untouched.
 
-[Download the latest preview](https://github.com/lumen-xx/dice-releases/releases/latest)
+[Download the latest preview](https://github.com/lumen-xx/dice-releases/releases)
 
 ![Dice image editor](images/image.png)
 
@@ -19,7 +19,7 @@ A small native Mac app to convert, resize and compress images, inspect metadata 
 
 Requires **macOS 14 or newer and an Apple-silicon Mac**. The app is about **26.2 MB installed / 7.8 MB downloaded**. ExifTool and WebP tools are bundled.
 
-1. Download the ZIP from [Releases](https://github.com/lumen-xx/dice-releases/releases/latest).
+1. Download the ZIP from [Releases](https://github.com/lumen-xx/dice-releases/releases).
 2. Unzip it and move **Dice.app** into **Applications**.
 3. Open Dice and drop images into its window, use **+**, or choose **Open With → Dice** in Finder.
 4. Choose your conversion settings and press **Start**. Use the down-arrow to save processed copies.
