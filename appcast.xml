@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.15</title>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 20:25:56 GMT</pubDate>
+      <description>- Swipe through images with two fingers on the trackpad.
+- Settings: fill colour for transparency when saving formats without alpha (JPEG, BMP).
+- Animated images: GIF stays animated when saved as GIF; other formats export a folder of frames or just the first frame (your choice).
+- Settings: custom filename suffix, Close Dice when finished toggle.
+- Right-click an image: Show in Finder.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.15/Dice-v0.1.15-apple-silicon.zip" length="10155143" type="application/octet-stream" sparkle:edSignature="as+Q/LK+C+N96Ge24FEucp7IdBwy0rE5Y11WFxobaAlUZO3zE7OXTG2eb4qE4sY7/D+kMcL693tlXsuiZ9XfCQ=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.14</title>
       <sparkle:version>15</sparkle:version>
       <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
@@ -142,6 +157,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: XIfKmzIUiUB0jL30BYtTolCP08uvJshLZYtXXMeiuc6F2JGAapuepWgvFrajYGQ4dCy7DWR5XujJ20jTwAPLAg==
-length: 10233
+edSignature: NbZcPtZhQUEDTv6xqxhCPgHSieAETX47NRiWqOXRPgyekgZk9TdFXfsL/5v9DnoU9sg8POAUGVFB47wch3vxBQ==
+length: 11299
 -->
