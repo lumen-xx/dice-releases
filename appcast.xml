@@ -6,6 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.18</title>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 20:38:46 GMT</pubDate>
+      <description>Removed the corner drop targets, which collided with macOS hot corners. Only the notch drop target remains.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.18/Dice-v0.1.18-apple-silicon.zip" length="10193411" type="application/octet-stream" sparkle:edSignature="vRn6MflCav5tjNQM4Z1JcckL9XSTykOP1QJbDu2W0jRMvRnK0H2eQH/lQ9KaTrS0Kdlui7fmtE1yZXtdGpI0Cg=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.17</title>
       <sparkle:version>18</sparkle:version>
       <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
@@ -181,6 +192,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: JjSYWv71D+8M4vlUU0hQl50fHzr4pU1skSTJdyMnrM4Nl4z+ifBdd4K/sV8wuXE0Jy+4SvXuKTGHiLLSr3NfCg==
-length: 13118
+edSignature: eSoJ2x2Jsmgg2YxsmIlPS4kAebW6ODEXVxbyhfyd+0M34i7yoWcB8UhU1a9nuOYYTgRi7KFxijAHujHWy0HuDA==
+length: 13902
 -->
