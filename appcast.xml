@@ -6,6 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.23</title>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 21:00:45 GMT</pubDate>
+      <description>Fixed the corner drop target refusing files released over its centre icon.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.23/Dice-v0.1.23-apple-silicon.zip" length="10216614" type="application/octet-stream" sparkle:edSignature="QrEqPdHBPgjnQRIh5mGDD6BFXpKNypIoWC3msv/PQeWyfpzMmW3frSqgafZmhpd1YEW1Dtl/ioF5ULb2ijNdCw=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.22</title>
       <sparkle:version>23</sparkle:version>
       <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
@@ -236,6 +247,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: LXsGTxszClnTQW9qTT+1fWeO2mIMGebI/7ct9vZz/J3WwWB1zisQHUz2AoCRyilmg7g5gLPUrQ73O/umK5giAw==
-length: 17142
+edSignature: 8712gMzzGTflacQqCjlS5AUQq4FCmKLGgrj6mc0cRIdSvn8zhNt9V+/fP8lZFIuIZEMZzb930bCDf77t747IAw==
+length: 17893
 -->
