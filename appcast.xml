@@ -6,6 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.21</title>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 20:56:20 GMT</pubDate>
+      <description>Drop target can now be revealed at the bottom left or bottom right corner (notch option removed). Drop options that don't apply are hidden instead of greyed out.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.21/Dice-v0.1.21-apple-silicon.zip" length="10214771" type="application/octet-stream" sparkle:edSignature="5qmYSCkU+VxIAow1PRO4naQNrM7uB3p5ca9eHnWg+V02ZyXw/NUu8c/1splzRvD7jFqn6k8aujY2awen/BOfBw=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.20</title>
       <sparkle:version>21</sparkle:version>
       <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
@@ -214,6 +225,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 22eHNXUaTQ2Q7r+1X/7dt5Glr86/tMyEkLAyNcbL2UUgIhC9kiMljFfurlEt+BFWXCvfC1HQOuRNdn745nINCA==
-length: 15486
+edSignature: 4t77V0El2n5uEvX3AhwQ9Kb9tRr+/Is/3f2dYOSfYVSaxnx37AgFiVwWvulKQVwwko2VVUvBuW/PyEVpPReBDg==
+length: 16324
 -->
