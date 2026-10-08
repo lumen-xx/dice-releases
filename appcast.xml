@@ -6,6 +6,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.11</title>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 19:43:12 GMT</pubDate>
+      <description>- Settings: default resize and quality, Start at login, Show in menu bar, Stay on top of other apps.
+- Right-click an image (preview or list) to Remove from Dice or Move Original to Trash.
+- Starting a run shows a loader in the preview area; Dice closes when everything finished without errors (it stays running only if shown in the menu bar).
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.11/Dice-v0.1.11-apple-silicon.zip" length="10115973" type="application/octet-stream" sparkle:edSignature="yLYb674g3Ewl8VClSPNvwk7CJLyJxWIRqTy+5wuucW86ny60kQ18ZmV/bWXfgvMG7s8VJNY6mQ+4V2GX+p0uBA=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.10</title>
       <sparkle:version>11</sparkle:version>
       <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
@@ -96,6 +109,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: f1daqCP7E0nExCXEV8N+8cK9pjtCoouP5LPPImHYoKyQKkP8COsHHwNzFcuBau8hwTBhwY8f0R7Cy94evPyOBA==
-length: 6837
+edSignature: xD1Ml/pekZtXeLAFDtQOJN8Dus764NFfnfVwSDWndjEFCnuj2T/nNuTCmll/79J20dDWEUHQX7p3y9kib9EBBw==
+length: 7857
 -->
