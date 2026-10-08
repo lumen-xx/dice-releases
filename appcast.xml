@@ -6,6 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.24</title>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 21:05:58 GMT</pubDate>
+      <description>Closing Dice with Settings open now reopens to the normal view.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.24/Dice-v0.1.24-apple-silicon.zip" length="10216660" type="application/octet-stream" sparkle:edSignature="6ERzMHLvPAOqKu0G2epCSeGar5Qe5vzZ4lg62n63ySgTt/sUi4ZYHGwTuHLkocOccQo6NVTyR0E4ft0fNm/iAA=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.23</title>
       <sparkle:version>24</sparkle:version>
       <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
@@ -247,6 +258,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 8712gMzzGTflacQqCjlS5AUQq4FCmKLGgrj6mc0cRIdSvn8zhNt9V+/fP8lZFIuIZEMZzb930bCDf77t747IAw==
-length: 17893
+edSignature: eM3fQHp9aKM/DM8/LaZHw05sWDf2K1R6srvhzWPC6CvKFhOtoj5NgX2oDdmqLBQflESCJnOxPVNSk3n1HIScDw==
+length: 18633
 -->
