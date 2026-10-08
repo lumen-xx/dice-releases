@@ -6,6 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.14</title>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 20:06:35 GMT</pubDate>
+      <description>- Option explanations now show as a small info icon with an instant tooltip instead of the delayed system tooltip.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.14/Dice-v0.1.14-apple-silicon.zip" length="10124312" type="application/octet-stream" sparkle:edSignature="rcomYDQRZaiOSoCCr/jouMvUKEs47PT4/b1cZjyekycvmri9ZezG6KT85WExNCIFkox83gkU1IEUSNDOIfsZAg=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.13</title>
       <sparkle:version>14</sparkle:version>
       <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
@@ -131,6 +142,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: pbS2hAcwrtjj4ZfTVMzm7tUs63UudSCiZNYxKa3YaKgM9nG6lhufaUWuyXg3u+0QLLzinz1V7qGsklAQ8zRIBg==
-length: 9442
+edSignature: XIfKmzIUiUB0jL30BYtTolCP08uvJshLZYtXXMeiuc6F2JGAapuepWgvFrajYGQ4dCy7DWR5XujJ20jTwAPLAg==
+length: 10233
 -->
