@@ -6,6 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.12</title>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 19:54:14 GMT</pubDate>
+      <description>- Settings: default for Replace originals, default for Remove personal metadata, and Always remove personal metadata (hides the option in image settings).
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.12/Dice-v0.1.12-apple-silicon.zip" length="10118650" type="application/octet-stream" sparkle:edSignature="w7+czn1Nzvwy42Bqq0CSmAtkWQl91+GYgl23sbLvfgdU1Wodzu25bDTXUUQMvSglIb7JCdnoMXg2sXkwBfpsAg=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.11</title>
       <sparkle:version>12</sparkle:version>
       <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
@@ -109,6 +120,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: xD1Ml/pekZtXeLAFDtQOJN8Dus764NFfnfVwSDWndjEFCnuj2T/nNuTCmll/79J20dDWEUHQX7p3y9kib9EBBw==
-length: 7857
+edSignature: hpKcfZrLp5RRDd5u/9VZFhRHG7nIHplCCjgMWiCWa6/KWSTdSFYsy0UjnmhiS0Pnf4pGxNUy7wrGQ+E0pvTJAQ==
+length: 8688
 -->
