@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Dice updates</title>
+    <link>https://github.com/lumen-xx/dice-releases</link>
+    <description>Signed Dice releases for macOS.</description>
+    <item>
+      <title>Dice 0.1.5</title>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Thu, 08 Oct 2026 17:02:19 GMT</pubDate>
+      <description>Dice now includes Check for Updates in the application menu, with signed downloads from GitHub Releases. Preview releases can be enabled or disabled. Checks are manual by default, and updates wait for active image work and unsaved processed copies before restarting.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice-releases/releases/download/v0.1.5/Dice-v0.1.5-apple-silicon.zip" length="7789128" type="application/octet-stream" sparkle:edSignature="oSPmMIfl8kDKJHMsREhkuNHavywAIg/UkPAiEpMEx1IweGTWZxPN+gkyR/WumJhOyr39u5v2KiAL36j1tJLwDA=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: zlSs6o/G5TftCiDLCUeCYaQbCcRvzIazcXxlz2ZuccDHt4rBSHzf2+PrkqL7FoSFVg+ZENlRFlkOxewgXoHHAw==
+length: 1501
+-->
