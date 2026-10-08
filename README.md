@@ -1,8 +1,19 @@
 # Dice
 
-A small native Mac app to convert, resize and compress images, inspect metadata and remove personal tags. Everything happens locally on your Mac. Originals stay untouched.
+## Install
 
-[Download the latest preview](https://github.com/lumen-xx/dice-releases/releases)
+macOS 14+ · Apple silicon
+
+1. [Download Dice](https://github.com/lumen-xx/dice-releases/releases), unzip and move **Dice.app** to **Applications**.
+2. Open Dice. If blocked, go to **System Settings → Privacy & Security → Open Anyway**, or run:
+
+```sh
+xattr -dr com.apple.quarantine /Applications/Dice.app
+```
+
+Use this only for Dice downloaded here. This preview is not yet notarized.
+
+A small native Mac app to convert, resize and compress images, inspect metadata and remove personal tags. Everything happens locally on your Mac. Originals stay untouched.
 
 ![Dice image editor](images/image.png)
 
@@ -15,41 +26,15 @@ A small native Mac app to convert, resize and compress images, inspect metadata 
 
 ![Dice metadata viewer](images/metadata.png)
 
-## Getting started
+## Using Dice
 
 Requires **macOS 14 or newer and an Apple-silicon Mac**. The app is about **26.2 MB installed / 7.8 MB downloaded**. ExifTool and WebP tools are bundled.
 
-1. Download the ZIP from [Releases](https://github.com/lumen-xx/dice-releases/releases).
-2. Unzip it and move **Dice.app** into **Applications**.
-3. Open Dice and drop images into its window, use **+**, or choose **Open With → Dice** in Finder.
-4. Choose your conversion settings and press **Start**. Use the down-arrow to save processed copies.
+Drop images into Dice, use **+**, or choose **Open With → Dice** in Finder. Choose your settings and press **Start**; the down-arrow saves processed copies.
 
 The page number opens the searchable image list. Removing an image from Dice leaves its original file in place. Save your processed copies before closing the app.
 
 ![Dice image list](images/batch.png)
-
-## First launch: macOS approval
-
-This preview is not yet Developer ID signed or notarized. macOS may block the first downloaded copy. Only follow these steps for Dice downloaded from this repository.
-
-### System Settings
-
-1. Try opening Dice once.
-2. Open **System Settings → Privacy & Security**.
-3. Scroll to the Dice security message and click **Open Anyway**.
-4. Confirm **Open** and authenticate if asked.
-
-[Apple’s instructions](https://support.apple.com/en-us/102445) explain the same process.
-
-### Terminal
-
-With Dice in Applications, paste this into Terminal:
-
-```sh
-xattr -dr com.apple.quarantine /Applications/Dice.app
-```
-
-Then open Dice. This removes the download quarantine flag from **Dice only**, without disabling Gatekeeper for other apps. Use the correct app path if you installed it elsewhere.
 
 ## Updates
 
