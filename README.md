@@ -1,8 +1,6 @@
 # Dice
 
-A small native Mac app to convert, resize and compress images, and strip personal metadata. Everything runs locally.
-
-![Dice](images/image.png)
+A small Mac app to convert, resize and compress images and strip personal metadata. Everything runs locally.
 
 ## Install
 
@@ -19,7 +17,8 @@ Dice is not notarized yet. Only run this for Dice downloaded here.
 
 ## Use
 
-Drop images in, or choose **Open With → Dice** in Finder. Adjust the settings, then press **Start**.
+- Drop images in, or choose **Open With → Dice** in Finder.
+- Adjust the settings, then press **Start**.
 
 Updates: **Dice → Check for Updates…**
 
