@@ -6,6 +6,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.27</title>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.1.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Tue, 13 Oct 2026 15:52:02 GMT</pubDate>
+      <description>- Dice is open source under the MIT License. The source, downloads and updates are now at github.com/lumen-xx/dice; this version checks for updates there.
+- Settings links to the source repository.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.1.27/Dice-v0.1.27-apple-silicon.zip" length="10234252" type="application/octet-stream" sparkle:edSignature="RPcGXRwfSygt3JKcfgR8nXcE+7Sf6krdMImRb4UpYNVtNwphpAxK8byVMAWvU/4Yriq6PNtkqTSrw4/5a1XnBA=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.26</title>
       <sparkle:version>27</sparkle:version>
       <sparkle:shortVersionString>0.1.26</sparkle:shortVersionString>
@@ -280,6 +292,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: XNPWCpm+ZUIh6l5Z6fKV7mIUwycXSepjrePPaS/7OdqMol+MDVQSzNLDsnVYqSm4lXCyJQ+JLFrsI0oXi2dyCQ==
-length: 20243
+edSignature: rmITNytiKuALS2OZLWI+MVN2tsuKYPOEed5fv5qBhTclHzDIYnoKeDk0w7oMOTB5rFfqypc9NPNVPcdaY2CcCQ==
+length: 21108
 -->
