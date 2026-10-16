@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.2.2</title>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Fri, 16 Oct 2026 16:21:21 GMT</pubDate>
+      <description>More formats:
+
+- Save as ICO and ICNS: one file with every standard icon size, padded to a square.
+- Save as PDF, one page per image. With PDF and more than one image, "Combine into one PDF" puts the whole batch in a single PDF.
+- Animations stay animated as APNG, animated WebP and HEIC, not only GIF ("Keep animations" in App settings).
+- Opens SVGZ files and Illustrator files saved with PDF compatibility. EPS and older Illustrator files now explain why they can't be opened.
+- "Metadata only" now also works for TIFF, AVIF, GIF and DNG files.
+- Fixed: saving as AVIF at 100% quality failed.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.2.2/Dice-v0.2.2-apple-silicon.zip" length="12250856" type="application/octet-stream" sparkle:edSignature="oYlkvS4V8ITVUhMe6RvLRBqBgHl5bhgvxZa5ij8E/sOziLzPW4UFYUrK1ORvwIn2fNdBrBmjENCC/ZS9edMrCA=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.2.1</title>
       <sparkle:version>31</sparkle:version>
       <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
@@ -350,6 +368,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: u/4/9BhOyiHo5RvixVUGGaiNtB1WA7V9xZZ2vbyqlUSt4S4WfhnsL44O90RfZLbf7AlBsub7w43c5NB+RMpKAw==
-length: 25402
+edSignature: TP6WqTe6Es1F5Pof8vHs6mH+R1cdnbehs/KaSjLg/iYz6TSiUc9+B2WhdOA9HBnDYm8NhuDJ6L3znxusAj+HDQ==
+length: 26661
 -->
