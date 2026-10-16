@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.2.1</title>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Fri, 16 Oct 2026 16:04:46 GMT</pubDate>
+      <description>Smaller files:
+
+- Target file size: click "Quality" in Image settings and choose Target size, then enter a size in KB. Dice picks the highest quality that fits, and makes the image smaller only if it has to.
+- PNG files are now losslessly optimised (with oxipng): smaller files, identical pixels. You can turn this off in Image settings.
+- When re-encoding a file in the same format and size would make it bigger, Dice keeps the original's pixels instead, still removing personal metadata if that's on. You can turn this off in App settings.
+- Fixed: file sizes could be reported from before a file was rewritten.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.2.1/Dice-v0.2.1-apple-silicon.zip" length="12202460" type="application/octet-stream" sparkle:edSignature="+83uypAfgt63k1xwGgWsbvO5C2Nmd903ACbIFgxQfTUKeazW+nXgpqKXt9MrjxW9v6MAm/2QfajWiABdhnUnCQ=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.2.0</title>
       <sparkle:version>30</sparkle:version>
       <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
@@ -334,6 +350,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: xBCkEtIctH+nf4E/TfibPSn/Tu+kf2zS8xa6KSYSZNu/KlHW6rH529sOCMkmjEdsSJnAn6G1pCwadFW7diHYCw==
-length: 24125
+edSignature: u/4/9BhOyiHo5RvixVUGGaiNtB1WA7V9xZZ2vbyqlUSt4S4WfhnsL44O90RfZLbf7AlBsub7w43c5NB+RMpKAw==
+length: 25402
 -->
