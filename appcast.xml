@@ -6,6 +6,31 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.1.28</title>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Fri, 16 Oct 2026 15:14:50 GMT</pubDate>
+      <description>Bug fixes:
+
+- Converting to BMP with metadata kept no longer fails; BMP can't hold metadata, and Dice now says so.
+- Multi-size ICO and ICNS files open as one image at their largest size, not as an animation. MPO, RAW and HEIC files with extra images open as their primary image.
+- WebP conversion can no longer delete another result that has the same name.
+- SVGs and PDFs render at any requested size, including larger than their own.
+- "Same as original" now saves HEIF as HEIC, and RAW, JPEG XL and JPEG 2000 as JPEG (not PNG), with a note. Quality only shows when it applies.
+- Metadata only, Resize only and WebP Lossless no longer carry over into the next set of images.
+- Move Original to Trash on a PDF or TIFF page trashes the file and removes all its pages.
+- A run that saves nothing says so instead of closing Dice.
+- Folders can be dropped or chosen; Dice opens up to 500 images inside them.
+- New Edit menu: copy, paste and select all work in text fields, and ⌘V adds pasted images. Copies of pasted images are saved to Downloads.
+- Multi-page PDFs import faster: file metadata is read once.
+- A bundled tool that hangs on a file is stopped after 3 minutes.
+- Flattening transparency for JPEG and BMP keeps Display P3 colour.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.1.28/Dice-v0.1.28-apple-silicon.zip" length="10251928" type="application/octet-stream" sparkle:edSignature="xZ9MJo5zVjKAvcPAJI+TrOkM/J8qpVIi8LlQ5ZMnafN6lb4EOd0G/k4vSySBogvWhCK7sKBi9vYl3lGiRz0LBw=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.27</title>
       <sparkle:version>28</sparkle:version>
       <sparkle:shortVersionString>0.1.27</sparkle:shortVersionString>
@@ -292,6 +317,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: rmITNytiKuALS2OZLWI+MVN2tsuKYPOEed5fv5qBhTclHzDIYnoKeDk0w7oMOTB5rFfqypc9NPNVPcdaY2CcCQ==
-length: 21108
+edSignature: GzjZwALspcuFaVDpEXcSCGTLLjxbuGHgzl+Su17oj9Wy0C7Po0SiusmnqAdpPBAKxK5H77HbU50Ues2R7/H4CA==
+length: 23018
 -->
