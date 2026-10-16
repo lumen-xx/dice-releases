@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.2.5</title>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Fri, 16 Oct 2026 16:49:57 GMT</pubDate>
+      <description>Remove background:
+
+- Remove background, in the Adjust menu, keeps the subject and makes the background transparent. It runs entirely on your Mac.
+- With "Same as original", JPEG photos are saved as PNG so the transparency is kept. Choosing JPEG puts the subject on your fill colour instead.
+- Works together with cropping, resizing, rotating and every format that supports transparency.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.2.5/Dice-v0.2.5-apple-silicon.zip" length="12307599" type="application/octet-stream" sparkle:edSignature="GdRwvoqzMtkpexYgD+Wu8ae762yi9EZEdF6nn10dEesKJ3Lhe7n+dOlS7xOa3timVjoOFP7MVbahAsSdHt/SBw=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.2.4</title>
       <sparkle:version>34</sparkle:version>
       <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
@@ -401,6 +416,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: vX9mwNMcmqA5nIa3ZMgF/Nm4FnNkZ9Jcip0I6rd+iYMeheyESkG/09it8ErsQ2mKRa6WBCCILbgrkYu7ZHeECw==
-length: 29008
+edSignature: zOq2qZLATiEpPpOfdaidrvnouk9PehyaysK9a/zwgJ0xLnchOpxDoBcX6pbMLW4/KOslOLWuMRQNgbcCnr5hCw==
+length: 30059
 -->
