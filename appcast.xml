@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.2.4</title>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Fri, 16 Oct 2026 16:44:04 GMT</pubDate>
+      <description>Colour, HDR and metadata:
+
+- HDR photos stay HDR (with a gain map) when saved as HEIC, JPEG or AVIF, even after resizing, rotating or cropping. Other formats get a proper SDR version. Turn this off with Keep HDR in the Adjust menu.
+- Convert to sRGB, in the Adjust menu (renamed from Shape), for the web and apps that ignore colour profiles.
+- Metadata: choose Keep, Remove location (GPS and place names only), or Remove personal.
+- File names: App settings now takes a pattern with {name}, {n} (number in the batch) and {date}. Your old suffix carries over.
+- Fixed: "Metadata only" removed the HDR from HDR JPEGs.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.2.4/Dice-v0.2.4-apple-silicon.zip" length="12303293" type="application/octet-stream" sparkle:edSignature="IbMO6KUsdznw58VGe888n76Ajh3I1msI3xUwTTv9tFXOynUHSgydZeDQelTBnklUF82IcPnVIx2b5hTA7CGLCg=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.2.3</title>
       <sparkle:version>33</sparkle:version>
       <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
@@ -384,6 +401,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 0SwnqtwQo712ltdYrAtYAE7uzA87wMAPAGgn8brN3O3yIF5wpi2BWGvOHp+JyXLFnkMGJ156uSuO1/VlK2wPBA==
-length: 27729
+edSignature: vX9mwNMcmqA5nIa3ZMgF/Nm4FnNkZ9Jcip0I6rd+iYMeheyESkG/09it8ErsQ2mKRa6WBCCILbgrkYu7ZHeECw==
+length: 29008
 -->
