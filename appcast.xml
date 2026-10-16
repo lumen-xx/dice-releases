@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.2.6</title>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Fri, 16 Oct 2026 17:11:41 GMT</pubDate>
+      <description>JPEG XL:
+
+- Save as JPEG XL, with Quality, Lossless and Target size. JPEG XL files now stay JPEG XL with "Same as original", and "Metadata only" works on them.
+- Dice is a little larger (about 43 MB installed) because it now includes the JPEG XL encoder.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.2.6/Dice-v0.2.6-apple-silicon.zip" length="15037868" type="application/octet-stream" sparkle:edSignature="RI+acACPwxIbdp9LVGyVStW7PZypzrgIzlGCcrJ7tdd3/ESGZ9kPtPuYubaFyMOMGpC909y3HuMI4bxy5cfuCw=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.2.5</title>
       <sparkle:version>35</sparkle:version>
       <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
@@ -416,6 +430,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zOq2qZLATiEpPpOfdaidrvnouk9PehyaysK9a/zwgJ0xLnchOpxDoBcX6pbMLW4/KOslOLWuMRQNgbcCnr5hCw==
-length: 30059
+edSignature: /+C5QJLpuD6SAwi+LSchGnKjy39cVd351d0maOmvfr6noebC3A6WDfTdOTRM80qasO4KPSFW+0CNL+LFNDp2Ag==
+length: 30977
 -->
