@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.2.7</title>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Fri, 16 Oct 2026 17:31:16 GMT</pubDate>
+      <description>- Dropping images no longer hangs on a spinner. Text recognition for search now runs in the background after import.
+- Rotate, flip, crop and the other adjustments are now inline in Image settings, in a section that folds to one line.
+- "Remove personal" metadata is now called "Remove all": everything except the colour profile is removed.
+- The empty-window die is monochrome.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.2.7/Dice-v0.2.7-apple-silicon.zip" length="15069441" type="application/octet-stream" sparkle:edSignature="UB087EK8V9CQzzsBc7dmJJNwFZSQkUTospjGOV8mprrV4i9PRpu7+45wltphhJhHGvZ41I19bwfjGorKGyQCDg=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.2.6</title>
       <sparkle:version>36</sparkle:version>
       <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
@@ -430,6 +444,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /+C5QJLpuD6SAwi+LSchGnKjy39cVd351d0maOmvfr6noebC3A6WDfTdOTRM80qasO4KPSFW+0CNL+LFNDp2Ag==
-length: 30977
+edSignature: tHPuFv7NAMxGkElnNz+/tghweqFey/6xPDvkXP6RdiJ+ZRiRZ4eMkJZ2tGZegnQC11A0v+pjFgn/enCqc84+CQ==
+length: 32019
 -->
