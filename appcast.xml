@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.2.0</title>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Fri, 16 Oct 2026 15:53:25 GMT</pubDate>
+      <description>Dice has a new look: Aurora.
+
+- The colours of the drag-and-drop glow (mint, cyan, indigo and violet) are now Dice's palette, replacing orange.
+- Start, switches, sliders, selection and menu icons use indigo. Dark mode uses a lighter indigo so settings stay readable over any image.
+- Menus in settings show their values in normal text.
+- While images process, an aurora ring shows how far along the run is.
+- New app icon in the same colours.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.2.0/Dice-v0.2.0-apple-silicon.zip" length="11336723" type="application/octet-stream" sparkle:edSignature="kycmcMAIcy8zvAVLWtcC7L4UnIZnGtbrx1MD51Vev7Cvmr13R7q7vE784fewZ9dzwgQ6v2kzc5oPtcJ6WMraCQ=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.1.28</title>
       <sparkle:version>29</sparkle:version>
       <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
@@ -317,6 +334,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: GzjZwALspcuFaVDpEXcSCGTLLjxbuGHgzl+Su17oj9Wy0C7Po0SiusmnqAdpPBAKxK5H77HbU50Ues2R7/H4CA==
-length: 23018
+edSignature: xBCkEtIctH+nf4E/TfibPSn/Tu+kf2zS8xa6KSYSZNu/KlHW6rH529sOCMkmjEdsSJnAn6G1pCwadFW7diHYCw==
+length: 24125
 -->
