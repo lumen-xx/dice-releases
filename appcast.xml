@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.2.3</title>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Fri, 16 Oct 2026 16:30:56 GMT</pubDate>
+      <description>Size and shape:
+
+- New resize modes: Width, Height, and Fill and crop (for example exactly 1080 × 1080).
+- Allow enlarging: scale images above their own size, including percentages over 100%.
+- A new Shape menu in Image settings: rotate, flip, crop to 1:1, 4:5, 4:3, 3:2, 16:9 or 9:16 (centred), and save @1x, @2x and @3x sets.
+- Choose the resolution PDF pages are rendered at: 72, 144, 300 or 600 dpi.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.2.3/Dice-v0.2.3-apple-silicon.zip" length="12285536" type="application/octet-stream" sparkle:edSignature="b+LQ9dp6Kl/fobRONYAPaDn66QhFoysE5WpWFUE1PTnU5Gr1Nuy+iO2D2WxlXO8cZGh0+I+cMJuWgEDWfMiTCg=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.2.2</title>
       <sparkle:version>32</sparkle:version>
       <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
@@ -368,6 +384,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: TP6WqTe6Es1F5Pof8vHs6mH+R1cdnbehs/KaSjLg/iYz6TSiUc9+B2WhdOA9HBnDYm8NhuDJ6L3znxusAj+HDQ==
-length: 26661
+edSignature: 0SwnqtwQo712ltdYrAtYAE7uzA87wMAPAGgn8brN3O3yIF5wpi2BWGvOHp+JyXLFnkMGJ156uSuO1/VlK2wPBA==
+length: 27729
 -->
