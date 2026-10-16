@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.2.8</title>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Fri, 16 Oct 2026 20:15:17 GMT</pubDate>
+      <description>- Image settings is now a short, clean list: one row per setting, with extra options inside the Format and Size menus, and an ⓘ tip on anything that needs explaining.
+- App settings is sorted into New images, Saving, Conversion, Window, System and Updates, and several settings are now a single menu.
+- New: Fit photos to the window (App settings › Window). Photos fill the window edge to edge; transparent images, SVGs and PDFs keep their margins.
+- Fixed: opening a mixed selection from Finder, such as photos and an SVG, could load only some of the files.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.2.8/Dice-v0.2.8-apple-silicon.zip" length="15120157" type="application/octet-stream" sparkle:edSignature="R6PBMy353exRLAfpPDvRyu9CVd70cCL4+4vtWy/p+bqfv5JUu09zVxHolmMFouJCc/OZXUu89B2M15Tw6Vr6AQ=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.2.7</title>
       <sparkle:version>37</sparkle:version>
       <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
@@ -444,6 +458,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: tHPuFv7NAMxGkElnNz+/tghweqFey/6xPDvkXP6RdiJ+ZRiRZ4eMkJZ2tGZegnQC11A0v+pjFgn/enCqc84+CQ==
-length: 32019
+edSignature: dLr60SRdz+bCXmD8ujNgykpodbDWfFWiUVKMnqWjJvKitQcpgsVz+XqC7nWROrXN29DGd+byfzm9Gtk0z33qBw==
+length: 33245
 -->
