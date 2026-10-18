@@ -6,6 +6,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.2.9</title>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Sun, 18 Oct 2026 19:18:58 GMT</pubDate>
+      <description>- Fixed: with Fit photos to the window on, you couldn't move the window. Dragging anywhere on a photo now moves the window in either layout, and right-clicking the photo still opens its menu.
+- New: Hide controls when not in use (App settings › Window, off by default). The close button, toolbar and footer fade out while you're in another app and the pointer isn't over Dice. Move over the window to bring them back.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.2.9/Dice-v0.2.9-apple-silicon.zip" length="15138737" type="application/octet-stream" sparkle:edSignature="p7vl+PKgcH/u13fEPiwzF9wVWZf7xDfe2zL449JH6L1c/tzMZgpTSkGVVV2U7rmhoeTxhM83Sv28RPJ7n7J4Dw=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.2.8</title>
       <sparkle:version>38</sparkle:version>
       <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
@@ -458,6 +470,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: dLr60SRdz+bCXmD8ujNgykpodbDWfFWiUVKMnqWjJvKitQcpgsVz+XqC7nWROrXN29DGd+byfzm9Gtk0z33qBw==
-length: 33245
+edSignature: t8peOF/UOUhQJV993QhX05GwnhOAdVGeoN8xi9ikA+tJcwoMFNpG6CO3VIUaN7ulrTZB05rY3cGEDK8jN3ajAA==
+length: 34328
 -->
