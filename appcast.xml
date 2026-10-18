@@ -6,6 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.2.12</title>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>0.2.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Sun, 18 Oct 2026 23:44:20 GMT</pubDate>
+      <description>- Fixed: the main window had square corners showing behind its rounded ones. Its blur and shadow are now rounded too, at any window size.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.2.12/Dice-v0.2.12-apple-silicon.zip" length="15147844" type="application/octet-stream" sparkle:edSignature="4Z896TZG5t3csl5l1cSV6DMAKmGximezdM797Uz/Au/RpQ6myEQenWxQ7p10hZLT2ZWWHrEuGLGyNhmfa5HKCg=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.2.11</title>
       <sparkle:version>41</sparkle:version>
       <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
@@ -494,6 +505,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: VqbcMoGeMe4zSkOc/xf3s14xoorCkER1vYu0kb/2JseCaKEkqlZO0joj0dDrldA1eDQ8Odmgx1bgf9VAdEOqDg==
-length: 36224
+edSignature: CqeQxOxmpfLSkbgQPJ10oxWI6nxuwBYmmwZXFklRJGZDMUhvnEuvzQhWFlFtFWiSSY5mELt554Cq9DCPZ0VhAw==
+length: 37029
 -->
