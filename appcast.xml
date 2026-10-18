@@ -6,6 +6,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.2.10</title>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Sun, 18 Oct 2026 23:35:04 GMT</pubDate>
+      <description>- The corner drop target now sits right in the corner of the screen, next to the Dock instead of above it, and it's drawn above the Dock.
+- New: Shake to open the drop target (App settings › System, off by default). While you drag files, shake the pointer quickly left and right and the drop target opens right under it.
+- Importing images in any way while App settings, metadata or the image list is open now goes straight to the new image.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.2.10/Dice-v0.2.10-apple-silicon.zip" length="15145490" type="application/octet-stream" sparkle:edSignature="LO88TOyr7mU9rnTdnHztGaNWoADxR8BwVCy8Obxd+pZfzYtcgU+B1UZ+nU3JvBXRGqJJs6Ay9+aL0f26Qi/0Cw=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.2.9</title>
       <sparkle:version>39</sparkle:version>
       <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
@@ -470,6 +483,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: t8peOF/UOUhQJV993QhX05GwnhOAdVGeoN8xi9ikA+tJcwoMFNpG6CO3VIUaN7ulrTZB05rY3cGEDK8jN3ajAA==
-length: 34328
+edSignature: wBLSPgf/WvLE7nQQxbFxcf1AEgG+vrCzh4oGgCurvQRCD3mqzy/qLenstleLMNBjdRNy8Ov1v6Wj6UBxEGU+DA==
+length: 35439
 -->
