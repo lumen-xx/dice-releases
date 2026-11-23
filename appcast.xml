@@ -6,6 +6,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/lumen-xx/dice-releases</link>
     <description>Signed Dice releases for macOS.</description>
     <item>
+      <title>Dice 0.2.13</title>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <pubDate>Mon, 23 Nov 2026 12:25:36 GMT</pubDate>
+      <description>- New: Command-scroll or pinch to zoom into a photo, around the pointer. Zoomed in, the photo is sharper and covers the window; scroll or drag to move around it.
+- Updated: ExifTool 13.55.
+</description>
+      <enclosure url="https://github.com/lumen-xx/dice/releases/download/v0.2.13/Dice-v0.2.13-apple-silicon.zip" length="15260539" type="application/octet-stream" sparkle:edSignature="yj0HRXOFK53vRX5uskIsF62/tzyDch2NQn5iQqJVUXmtkb8a35YbQywXoLpgue1WyJv8/L6FSuZLFO4ZNfXsDQ=="></enclosure>
+    </item>
+    <item>
       <title>Dice 0.2.12</title>
       <sparkle:version>42</sparkle:version>
       <sparkle:shortVersionString>0.2.12</sparkle:shortVersionString>
@@ -505,6 +517,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: CqeQxOxmpfLSkbgQPJ10oxWI6nxuwBYmmwZXFklRJGZDMUhvnEuvzQhWFlFtFWiSSY5mELt554Cq9DCPZ0VhAw==
-length: 37029
+edSignature: EFvCdex/4PL7uAiUALNhmGkdDKXot53/lBFP8+B69iO9+EJUVvgbEXJF4YD9DqjG/G0MqNIWHWpZ/C7rN5cjDg==
+length: 37885
 -->
